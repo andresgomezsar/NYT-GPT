@@ -1,6 +1,8 @@
 # NYT-GPT
 Program to search the New York Times using natural language
 
+Note: To make this work you will need .json files in the parent directory for both the NYT API key and the Open AI key. I have added templates here (move them one directory up)
+
 How it works:
 
 - User inputs any search query they want for the NYT API using natural language. That query is preprocessed using the GPT-3 LLM to create the three main elements of the query for a basic search using the NYT API: keyword, begin_date, and end_date.
