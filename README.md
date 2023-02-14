@@ -32,9 +32,9 @@ The program will preprocess the query and perform the search.
 The results will be displayed in a bar chart, showing the sentiment of each article and the monthly average sentiment.
 
 ## Limitations
-The accuracy of the date extraction may not always be perfect and may be off by a few days or months.
-The full text of the articles is not included in the results due to limitations imposed by the New York Times API.
-TextBlob package was trained on movie review data, which tends to overestimate negativity of the news articles (more nuanced language).
+- The accuracy of the date extraction may not always be perfect and may be off by a few days or months.
+- The full text of the articles is not included in the results due to limitations imposed by the New York Times API.
+- TextBlob package was trained on movie review data, which tends to overestimate negativity of the news articles (more nuanced language).
 
 ## Contributing
 We welcome contributions to the development of this program! You can contribute by:
