@@ -22,7 +22,7 @@ This novel approach enables users to make vague and complex searches, such as:
 
 It can also handle simple and straightforward searches, such as:
 
-"Climate change August 2015 January 2018."
+- "Climate change August 2015 January 2018."
 
 After the search is performed, the program returns a dataframe with information from the New York Times API, including the byline and article summary. This data is then analyzed using Natural Language Processing (via the TextBlob package) to determine the overall sentiment of each article. The results are displayed as a bar chart that shows sentiment both by article and by monthly averages.
 
@@ -51,4 +51,7 @@ Note: To make this work you will need .json files in the parent directory for bo
 Enjoy!
 
 ## Example Outputs:
+![Sentiment Graph](https://github.com/andresgomezsar/NYT-GPT/blob/main/NYT_GPT_Output1.jpg?raw=true)
+
+![Sentiment Graph](https://github.com/andresgomezsar/NYT-GPT/blob/main/NYT_GPT_Output2.jpg?raw=true)
 
