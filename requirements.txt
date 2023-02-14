@@ -1,0 +1,7 @@
+matplotlib
+requests
+pandas
+openai
+seaborn
+spacy
+wordcloud
