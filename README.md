@@ -60,7 +60,7 @@ Enjoy!
 ![Sentiment Graph](https://github.com/andresgomezsar/NYT-GPT/blob/main/NYT_GPT_Output2.jpg?raw=true)
 
 
-Licensing:
+## Licensing
 The code in this repository is licensed under the MIT License, which is a permissive open-source software license that allows you to use, modify, and distribute the software for both commercial and non-commercial purposes, as long as you include a copy of the license in your own project and give credit to the original authors. By using or modifying this code, you agree to comply with the terms of the license.
 
 To get started, simply clone this repository and follow the instructions in this readme file to set up and run the project. If you encounter any issues or have any questions, please contact me.
