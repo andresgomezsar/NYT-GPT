@@ -1,5 +1,7 @@
 # NYT-GPT
 "We can try to understand the New York Times effect on man." - The Bee Gees.
+
+
 Let's search the New York Times using natural language!
 
 ## Prerequisites
